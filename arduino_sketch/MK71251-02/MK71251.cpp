@@ -68,7 +68,7 @@ byte MK71251::init(void)
   Serial2.write("ATS150=02010605030f180a1809084c61706973446576\r\n");
 
   // set public address
-  Serial2.write("ATS127=ABCD19840614\r\n");
+  Serial2.write("ATS127=00208BAA5501\r\n");
 
   // set mac address to public address
   Serial2.write("ATS102=0\r\n");
