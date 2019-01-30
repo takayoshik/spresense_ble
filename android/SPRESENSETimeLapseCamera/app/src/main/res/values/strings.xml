@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SPRESENSE Time-Lapse  Camera</string>
+
+    <string name="logo_label_description">Time-lapse label</string>
+    <string name="main_window_description">Time-lapse view</string>
+    <string name="sub_window_1_description">Time-lapse sub view 1</string>
+    <string name="sub_window_2_description">Time-lapse sub view 2</string>
+    <string name="sub_window_3_description">Time-lapse sub view 3</string>
+    <string name="sub_window_4_description">Time-lapse sub view 4</string>
+</resources>
